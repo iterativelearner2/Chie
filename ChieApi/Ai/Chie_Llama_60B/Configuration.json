@@ -1,0 +1,4 @@
+{
+  "ModelPath": "..\\Models\\gpt4-alpaca-lora_mlp-65B.ggmlv3.q5_0.bin",
+  "RepeatPenalty": 1.2
+}
